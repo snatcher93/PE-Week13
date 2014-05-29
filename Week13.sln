@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsAnimation", "GraphicsAnimation\GraphicsAnimation.csproj", "{48D0F3B1-0599-4345-BCA8-995920F7F382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapImage", "BitmapImage\BitmapImage.csproj", "{063045F3-8300-406D-A86B-BF3FD19507AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBoxAnimation", "PictureBoxAnimation\PictureBoxAnimation.csproj", "{3F27BE7C-70A8-49C3-81DA-2B2C60F68F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBoxOpacity", "PictureBoxOpacity\PictureBoxOpacity.csproj", "{5989A58C-F6FD-4EEB-94E1-D2620D71325B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundPlay", "SoundPlay\SoundPlay.csproj", "{49DEE9F1-BBC0-4A9D-AFBE-C3AAD38133ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map", "Map\Map.csproj", "{E75BFF12-E170-485C-8DF3-C5F275AFF53B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scroll", "Scroll\Scroll.csproj", "{D913A37E-A9F2-49E0-AD80-A44C9E149D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D0F3B1-0599-4345-BCA8-995920F7F382}.Debug|x86.ActiveCfg = Debug|x86
+		{48D0F3B1-0599-4345-BCA8-995920F7F382}.Debug|x86.Build.0 = Debug|x86
+		{48D0F3B1-0599-4345-BCA8-995920F7F382}.Release|x86.ActiveCfg = Release|x86
+		{48D0F3B1-0599-4345-BCA8-995920F7F382}.Release|x86.Build.0 = Release|x86
+		{063045F3-8300-406D-A86B-BF3FD19507AB}.Debug|x86.ActiveCfg = Debug|x86
+		{063045F3-8300-406D-A86B-BF3FD19507AB}.Debug|x86.Build.0 = Debug|x86
+		{063045F3-8300-406D-A86B-BF3FD19507AB}.Release|x86.ActiveCfg = Release|x86
+		{063045F3-8300-406D-A86B-BF3FD19507AB}.Release|x86.Build.0 = Release|x86
+		{3F27BE7C-70A8-49C3-81DA-2B2C60F68F87}.Debug|x86.ActiveCfg = Debug|x86
+		{3F27BE7C-70A8-49C3-81DA-2B2C60F68F87}.Debug|x86.Build.0 = Debug|x86
+		{3F27BE7C-70A8-49C3-81DA-2B2C60F68F87}.Release|x86.ActiveCfg = Release|x86
+		{3F27BE7C-70A8-49C3-81DA-2B2C60F68F87}.Release|x86.Build.0 = Release|x86
+		{5989A58C-F6FD-4EEB-94E1-D2620D71325B}.Debug|x86.ActiveCfg = Debug|x86
+		{5989A58C-F6FD-4EEB-94E1-D2620D71325B}.Debug|x86.Build.0 = Debug|x86
+		{5989A58C-F6FD-4EEB-94E1-D2620D71325B}.Release|x86.ActiveCfg = Release|x86
+		{5989A58C-F6FD-4EEB-94E1-D2620D71325B}.Release|x86.Build.0 = Release|x86
+		{49DEE9F1-BBC0-4A9D-AFBE-C3AAD38133ED}.Debug|x86.ActiveCfg = Debug|x86
+		{49DEE9F1-BBC0-4A9D-AFBE-C3AAD38133ED}.Debug|x86.Build.0 = Debug|x86
+		{49DEE9F1-BBC0-4A9D-AFBE-C3AAD38133ED}.Release|x86.ActiveCfg = Release|x86
+		{49DEE9F1-BBC0-4A9D-AFBE-C3AAD38133ED}.Release|x86.Build.0 = Release|x86
+		{E75BFF12-E170-485C-8DF3-C5F275AFF53B}.Debug|x86.ActiveCfg = Debug|x86
+		{E75BFF12-E170-485C-8DF3-C5F275AFF53B}.Debug|x86.Build.0 = Debug|x86
+		{E75BFF12-E170-485C-8DF3-C5F275AFF53B}.Release|x86.ActiveCfg = Release|x86
+		{E75BFF12-E170-485C-8DF3-C5F275AFF53B}.Release|x86.Build.0 = Release|x86
+		{D913A37E-A9F2-49E0-AD80-A44C9E149D70}.Debug|x86.ActiveCfg = Debug|x86
+		{D913A37E-A9F2-49E0-AD80-A44C9E149D70}.Debug|x86.Build.0 = Debug|x86
+		{D913A37E-A9F2-49E0-AD80-A44C9E149D70}.Release|x86.ActiveCfg = Release|x86
+		{D913A37E-A9F2-49E0-AD80-A44C9E149D70}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
